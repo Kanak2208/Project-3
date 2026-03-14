@@ -1,4 +1,4 @@
-macro_id,country_id,year_id,gdp_billion_usd,inflation_rate_pct,unemployment_rate_pct,economic_growth_pct
+macro_id,country_id,year,gdp_billion_usd,inflation_rate_pct,unemployment_rate_pct,economic_growth_pct
 1,20,2010,15000.0,1.64,9.63,2.55
 2,20,2011,15500.0,3.16,8.94,1.53
 3,20,2012,16000.0,2.07,8.1,2.28

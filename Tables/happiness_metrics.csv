@@ -1,4 +1,4 @@
-happiness_id,country_id,year_id,Happiness_Score,Life_Satisfaction,Social_Support,Healthy_Life_Expectancy,Freedom,Generosity,Corruption_Perception,Public_Trust,Mental_Health_Index,Work_Life_Balance,Climate_Index
+happiness_id,country_id,year,happiness_score,life_satisfaction,social_support,healthy_life_expectancy,freedom,generosity,corruption_perception,public_trust,mental_health_index,work_life_balance,climate_index
 1,5,2022,4.39,8.88,0.53,71.11,0.41,-0.05,0.83,0.34,76.44,8.59,62.75
 2,19,2015,5.49,5.03,0.93,63.14,0.89,0.04,0.84,0.72,53.38,8.76,53.11
 3,3,2009,4.65,5.22,0.03,62.36,0.01,0.16,0.59,0.23,82.4,6.06,33.3

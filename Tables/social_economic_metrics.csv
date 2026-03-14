@@ -1,4 +1,4 @@
-social_id,country_id,year_id,gdp_per_capita,population,urbanization_rate,education_index,unemployment_rate,employment_rate,income_inequality,public_health_expenditure,internet_access,crime_rate,political_stability
+social_id,country_id,year,gdp_per_capita,population,urbanization_rate,education_index,unemployment_rate,employment_rate,income_inequality,public_health_expenditure,internet_access,crime_rate,political_stability
 1,5,2022,44984.68,1311940760,78.71,0.52,14.98,61.38,46.06,8.92,74.4,70.3,0.29
 2,19,2015,30814.59,1194240877,50.87,0.83,19.46,80.18,46.43,4.43,91.74,73.32,0.76
 3,3,2009,39214.84,731100898,48.75,0.95,16.68,72.65,31.03,3.78,71.8,28.99,0.94
