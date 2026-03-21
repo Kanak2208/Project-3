@@ -112,15 +112,18 @@ The dataset is normalized into four relational tables:
 
 ## Data Sources
 
-- Socio-economic indicators dataset  
-- Macroeconomic indicators dataset  
-- Happiness / wellbeing dataset  
+Kaggle
 
 ---
 
 ## Summary
 
 This project demonstrates that **long-term structural factors**, rather than short-term macroeconomic fluctuations, are the primary drivers of national wellbeing. While inflation and unemployment vary significantly, happiness remains stable, highlighting the importance of economic development, institutions, and quality of life.
+
+## Presentation
+
+available at: https://docs.google.com/presentation/d/1U39XJDcyGSKUy0nt4Z24zzy5AcmmPPHj/edit?slide=id.p11#slide=id.p11
+
 
 
 
